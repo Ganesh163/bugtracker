@@ -1,0 +1,7 @@
+.tablerow:hover {
+  background-color: rgb(240, 240, 240);
+}
+.mat-icon {
+  font-size: 29px;
+  cursor: pointer;
+}
